@@ -1,0 +1,50 @@
+{
+  "generated_at_utc": "2026-10-06T03:12:14+00:00",
+  "source_files": {
+    "office_master": "table-data__21_.csv",
+    "device_supply": "SBI_POS_machines_Division_wise_details.xlsx"
+  },
+  "counts": {
+    "master_offices": 279,
+    "device_raw_rows": 291,
+    "exact_duplicate_rows_removed": 6,
+    "device_supplied_offices": 246,
+    "devices_supplied_sum": 271,
+    "device_not_supplied_offices": 33,
+    "orphaned_device_records": 13
+  },
+  "data_quality_conflicts": {
+    "tid_conflicts_resolved_by_confirmed_rule": [
+      {
+        "tid": "21530944",
+        "kept_office_id": "30660784",
+        "dropped_office_ids": [
+          "30660758"
+        ]
+      }
+    ],
+    "tid_conflicts_unresolved": [],
+    "device_records_orphaned_not_in_master": [
+      "30260014",
+      "30660581",
+      "30660584",
+      "30660607",
+      "30660620",
+      "30660624",
+      "30660628",
+      "30660630",
+      "30660712",
+      "30660730",
+      "30660746",
+      "30660788",
+      "30680009"
+    ]
+  },
+  "resolution_rules_applied": [
+    "There is no 'Pending Whitelisting' concept: every office with at least one device is eligible for activation analysis.",
+    "'Device Not Supplied' is derived as Master minus Device Supply \u2014 not sourced from any separate maintained list.",
+    "An Office ID on the device list that is NOT in the current Master has its device(s) excluded from every total ('orphaned') rather than silently guessed at.",
+    "TID 21530944 is confirmed assigned to Office 30660784 (Ranjhole S.O.), not 30660758 (Digwal S.O.).",
+    "TID 21573521 is confirmed assigned to Office 30680009 (Secunderabad RSTMO); this office is currently orphaned because it is not in the Master."
+  ]
+}

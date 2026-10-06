@@ -1,0 +1,280 @@
+office_id,office_name,division,office_type_code,division_office_id
+11661529,KULCHARAM S.O,Medak,SPO,30530015
+11661530,MIRDODDI S.O,Medak,SPO,30530015
+11661532,Kukatpally Court Complex SO,Secunderabad,SPO,30530017
+30350001,Hyderabad G.P.O.,Hyderabad GPO,GPO,30530013
+30360026,Khairatabad H.O,Hyderabad City,HPO,30530012
+30360027,Charminar H.O,Hyderabad South East,HPO,30530014
+30360028,UPPAL H.O,Hyderabad South East,HPO,30530014
+30360029,Secunderabad H.O,Secunderabad,HPO,30530017
+30360030,Trimulgherry H.O,Secunderabad,HPO,30530017
+30360031,Vikarabad H.O,Secunderabad,HPO,30530017
+30360032,Medak H.O,Medak,HPO,30530015
+30360033,Siddipet H.O,Medak,HPO,30530015
+30360034,Sangareddy H.O,Sangareddy,HPO,30530016
+30360035,Zaheerabad H.O,Sangareddy,HPO,30530016
+30660524,A.Gs Office S.O,Hyderabad City,SPO,30530012
+30660525,A.Gs. Staff Quarters S.O,Hyderabad City,SPO,30530012
+30660526,Anandnagar S.O,Hyderabad City,SPO,30530012
+30660527,Banjara Hills S.O,Hyderabad City,SPO,30530012
+30660528,Bazarghat S.O,Hyderabad City,SPO,30530012
+30660529,Bharat Nagar Colony S.O,Hyderabad City,SPO,30530012
+30660530,C.B.I.T S.O,Hyderabad City,SPO,30530012
+30660531,Central Secretariat S.O,Hyderabad City,SPO,30530012
+30660532,Chitrapuri Colony S.O.,Hyderabad City,SPO,30530012
+30660533,CUC S.O,Hyderabad City,SPO,30530012
+30660534,Cyberabad S.O,Hyderabad City,SPO,30530012
+30660535,Dr.B R Ambedkar O.U  S.O,Hyderabad City,SPO,30530012
+30660537,Film Nagar S.O,Hyderabad City,SPO,30530012
+30660538,Gachibowli S.O,Hyderabad City,SPO,30530012
+30660539,Gagan Mahal S.O,Hyderabad City,SPO,30530012
+30660540,Golconda S.O,Hyderabad City,SPO,30530012
+30660541,Himayathnagar S.O,Hyderabad City,SPO,30530012
+30660542,Humayunnagar S.O,Hyderabad City,SPO,30530012
+30660543,Hydershahkote S.O,Hyderabad City,SPO,30530012
+30660544,I S B Campus S.O,Hyderabad City,SPO,30530012
+30660546,Ibrahim Bagh Lines S.O,Hyderabad City,SPO,30530012
+30660547,Jubilee Hills S.O,Hyderabad City,SPO,30530012
+30660548,Kakatiya Nagar S.O,Hyderabad City,SPO,30530012
+30660549,Karwan Sahu S.O,Hyderabad City,SPO,30530012
+30660550,Kothaguda S.O,Hyderabad City,SPO,30530012
+30660551,Kulsumpura S.O,Hyderabad City,SPO,30530012
+30660552,Lingampalli S.O,Hyderabad City,SPO,30530012
+30660553,Lunger House S.O,Hyderabad City,SPO,30530012
+30660554,Manikonda S.O,Hyderabad City,SPO,30530012
+30660555,Manuu S.O,Hyderabad City,SPO,30530012
+30660557,Motinagar SO,Hyderabad City,SPO,30530012
+30660558,Narayanguda S.O,Hyderabad City,SPO,30530012
+30660559,Parishram Bhawan S.O,Hyderabad City,SPO,30530012
+30660560,Prashasan Nagar S.O,Hyderabad City,SPO,30530012
+30660561,Putlibowli S.O,Hyderabad City,SPO,30530012
+30660562,Lok Bhavan S.O,Hyderabad City,SPO,30530012
+30660563,Sanathnagar I E S.O,Hyderabad City,SPO,30530012
+30660564,Sanjeev Reddy Nagar S.O,Hyderabad City,SPO,30530012
+30660565,Shantinagar S.O,Hyderabad City,SPO,30530012
+30660566,Somajiguda S.O,Hyderabad City,SPO,30530012
+30660567,Srinagar Colony S.O,Hyderabad City,SPO,30530012
+30660568,Toli Chowki S.O,Hyderabad City,SPO,30530012
+30660569,Vengal Rao Nagar S.O,Hyderabad City,SPO,30530012
+30660570,Vidhan Sabha S.O,Hyderabad City,SPO,30530012
+30660571,Vijay Nagar Colony S.O,Hyderabad City,SPO,30530012
+30660572,Vivekananda Nagar Colony S.O,Hyderabad City,SPO,30530012
+30660573,Yousufguda S.O,Hyderabad City,SPO,30530012
+30660574,Amberpet S.O,Hyderabad South East,SPO,30530014
+30660575,Badangpet S.O,Hyderabad South East,SPO,30530014
+30660576,Bahadurpura S.O,Hyderabad South East,SPO,30530014
+30660577,Barkatpura S.O,Hyderabad South East,SPO,30530014
+30660578,Begum Bazar S.O,Hyderabad South East,SPO,30530014
+30660579,Boduppal S.O,Hyderabad South East,SPO,30530014
+30660580,Chaitanyapuri Colony S.O,Hyderabad South East,SPO,30530014
+30660582,Don Bosco Nagar S.O,Hyderabad South East,SPO,30530014
+30660583,Falaknuma S.O,Hyderabad South East,SPO,30530014
+30660585,G.S.I (S.R) Bandlaguda S.O,Hyderabad South East,SPO,30530014
+30660586,Gayathrinagar S.O,Hyderabad South East,SPO,30530014
+30660587,Hasthinapuram S.O,Hyderabad South East,SPO,30530014
+30660588,Hayatnagar S.O,Hyderabad South East,SPO,30530014
+30660589,High Court S.O,Hyderabad South East,SPO,30530014
+30660590,Cherlapally S.O,Hyderabad South East,SPO,30530014
+30660591,Huda Resi. Complex S.O,Hyderabad South East,SPO,30530014
+30660592,Hyderguda S.O,Hyderabad South East,SPO,30530014
+30660593,I.E.Nacharam S.O,Hyderabad South East,SPO,30530014
+30660594,Ibrahimpatnam S.O,Hyderabad South East,SPO,30530014
+30660595,Kanchanbagh S.O,Hyderabad South East,SPO,30530014
+30660596,Kandukur S.O,Hyderabad South East,SPO,30530014
+30660597,Kattedan I.E. S.O,Hyderabad South East,SPO,30530014
+30660598,Keshogiri S.O,Hyderabad South East,SPO,30530014
+30660599,Lal Bahadurnagar S.O,Hyderabad South East,SPO,30530014
+30660600,Malakpet Colony S.O,Hyderabad South East,SPO,30530014
+30660601,Mankhal S.O,Hyderabad South East,SPO,30530014
+30660602,Medipalli S.O,Hyderabad South East,SPO,30530014
+30660603,Meerpet S.O,Hyderabad South East,SPO,30530014
+30660604,Munaganur S.O,Hyderabad South East,SPO,30530014
+30660605,Nallakunta S.O,Hyderabad South East,SPO,30530014
+30660606,New Nallakunta S.O,Hyderabad South East,SPO,30530014
+30660608,P and T Colony (Gaddiannaram) S.O,Hyderabad South East,SPO,30530014
+30660609,Pedda Amberpet SO,Hyderabad South East,SPO,30530014
+30660610,R.G.I. Airport S.O,Hyderabad South East,SPO,30530014
+30660611,Ragannaguda X Road S.O,Hyderabad South East,SPO,30530014
+30660612,Raipole S.O,Hyderabad South East,SPO,30530014
+30660613,Rajendranagar S.O,Hyderabad South East,SPO,30530014
+30660614,Rama Krishnapuram S.O,Hyderabad South East,SPO,30530014
+30660615,Ramanthapur S.O,Hyderabad South East,SPO,30530014
+30660616,Ramoji Film City S.O,Hyderabad South East,SPO,30530014
+30660617,Rangareddy District Court S.O,Hyderabad South East,SPO,30530014
+30660618,Research Centre Imarat S.O,Hyderabad South East,SPO,30530014
+30660619,S.V.P.N.P.A. S.O,Hyderabad South East,SPO,30530014
+30660621,Sahifa S.O,Hyderabad South East,SPO,30530014
+30660622,Saidabad Colony S.O,Hyderabad South East,SPO,30530014
+30660623,Saidabad S.O,Hyderabad South East,SPO,30530014
+30660625,Saroornagar S.O,Hyderabad South East,SPO,30530014
+30660626,Shahalibanda S.O,Hyderabad South East,SPO,30530014
+30660627,Shamshabad S.O,Hyderabad South East,SPO,30530014
+30660629,Stn.Kachiguda S.O,Hyderabad South East,SPO,30530014
+30660631,Vaidehinagar S.O,Hyderabad South East,SPO,30530014
+30660632,Vaishalinagar S.O,Hyderabad South East,SPO,30530014
+30660633,Vanasthalipuram S.O,Hyderabad South East,SPO,30530014
+30660634,Vidyanagar S.O,Hyderabad South East,SPO,30530014
+30660635,Yacharam S.O,Hyderabad South East,SPO,30530014
+30660636,Yakutpura S.O,Hyderabad South East,SPO,30530014
+30660637,Airforce Academy S.O,Secunderabad,SPO,30530017
+30660638,Allampalli S.O.,Secunderabad,SPO,30530017
+30660639,Alwal S.O,Secunderabad,SPO,30530017
+30660640,Anandbagh S.O,Secunderabad,SPO,30530017
+30660641,Ashoknagar S.O,Secunderabad,SPO,30530017
+30660642,Bachupally SO,Secunderabad,SPO,30530017
+30660643,Balanagar Township S.O,Secunderabad,SPO,30530017
+30660644,Basheerabad S.O,Secunderabad,SPO,30530017
+30660645,Begumpet S.O,Secunderabad,SPO,30530017
+30660646,Bolarum S.O,Secunderabad,SPO,30530017
+30660647,Bompalli S.O,Secunderabad,SPO,30530017
+30660648,Bowenpally S.O,Secunderabad,SPO,30530017
+30660649,CCI Tandur S.O,Secunderabad,SPO,30530017
+30660650,Chandanagar S.O,Secunderabad,SPO,30530017
+30660651,Chevella S.O,Secunderabad,SPO,30530017
+30660652,Dammaiguda SO,Secunderabad,SPO,30530017
+30660653,Dharur S.O,Secunderabad,SPO,30530017
+30660654,Dr As Rao Nagar S.O,Secunderabad,SPO,30530017
+30660655,Ecil S.O,Secunderabad,SPO,30530017
+30660656,EME Records S.O,Secunderabad,SPO,30530017
+30660657,Gandhinagar S.O,Secunderabad,SPO,30530017
+30660658,Ghatkesar S.O,Secunderabad,SPO,30530017
+30660659,Golconda Chowrastha S.O,Secunderabad,SPO,30530017
+30660661,Hal S.O,Secunderabad,SPO,30530017
+30660662,HMT Township S.O,Secunderabad,SPO,30530017
+30660663,IDA Jeedimetla S.O,Secunderabad,SPO,30530017
+30660664,Ie Moulali S.O,Secunderabad,SPO,30530017
+30660665,IICT S.O,Secunderabad,SPO,30530017
+30660666,Jai Jawan Colony S.O,Secunderabad,SPO,30530017
+30660667,Jama I Osmania S.O,Secunderabad,SPO,30530017
+30660668,JJ Nagar Colony S.O,Secunderabad,SPO,30530017
+30660669,Jntu Kukat Pally S.O,Secunderabad,SPO,30530017
+30660670,Kailash Hills Colony SO,Secunderabad,SPO,30530017
+30660671,Keesara SO,Secunderabad,SPO,30530017
+30660672,Kompally S.O,Secunderabad,SPO,30530017
+30660673,Kotpalli S.O,Secunderabad,SPO,30530017
+30660674,Kukatpally S.O,Secunderabad,SPO,30530017
+30660675,Lallaguda S.O,Secunderabad,SPO,30530017
+30660676,Lallapet S.O,Secunderabad,SPO,30530017
+30660677,Malkajgiri S.O,Secunderabad,SPO,30530017
+30660678,MALLAREDDY UNIVERSITY CAMPUS SO,Secunderabad,SPO,30530017
+30660679,Manovikasnagar S.O,Secunderabad,SPO,30530017
+30660680,Mathrusri Nagar S.O,Secunderabad,SPO,30530017
+30660681,Medchal S.O,Secunderabad,SPO,30530017
+30660682,Miyapur S.O,Secunderabad,SPO,30530017
+30660683,Moinabad S.O,Secunderabad,SPO,30530017
+30660684,Mominpet S.O,Secunderabad,SPO,30530017
+30660685,Musheerabad (D) S.O,Secunderabad,SPO,30530017
+30660686,Nagaram S.O,Secunderabad,SPO,30530017
+30660687,Nawabpet S.O,Secunderabad,SPO,30530017
+30660688,Nehrunagar S.O,Secunderabad,SPO,30530017
+30660689,Neredmet S.O,Secunderabad,SPO,30530017
+30660690,Nisa Hakimpet S.O,Secunderabad,SPO,30530017
+30660691,Nizampet  S.O,Secunderabad,SPO,30530017
+30660692,NTR Park  Pragathinagar SO,Secunderabad,SPO,30530017
+30660693,Peddimal S.O,Secunderabad,SPO,30530017
+30660694,Prakashamnagar S.O,Secunderabad,SPO,30530017
+30660695,Purgi S.O,Secunderabad,SPO,30530017
+30660696,Rail Nilayam S.O,Secunderabad,SPO,30530017
+30660697,Ramakrishna Puram S.O,Secunderabad,SPO,30530017
+30660698,RAMPALLY SO,Secunderabad,SPO,30530017
+30660699,Sainikpuri S.O,Secunderabad,SPO,30530017
+30660700,Samskruthi S.O,Secunderabad,SPO,30530017
+30660701,Shamirpet S.O,Secunderabad,SPO,30530017
+30660702,Shankarpalli S.O,Secunderabad,SPO,30530017
+30660703,Sitaphalmandi S.O,Secunderabad,SPO,30530017
+30660704,Suchitra Junction S.O,Secunderabad,SPO,30530017
+30660705,Tandur S.O,Secunderabad,SPO,30530017
+30660706,VASANTHNAGAR SO,Secunderabad,SPO,30530017
+30660707,Vivekanandanagar Colony S.O,Secunderabad,SPO,30530017
+30660708,Yalal S.O,Secunderabad,SPO,30530017
+30660709,Zamistanpur S.O,Secunderabad,SPO,30530017
+30660710,Akkannapet S.O,Medak,SPO,30530015
+30660711,Allipur S.O,Medak,SPO,30530015
+30660713,Chegunta S.O,Medak,SPO,30530015
+30660714,Dubbak S.O,Medak,SPO,30530015
+30660715,Duddeda S.O,Medak,SPO,30530015
+30660716,Gujvail S.O,Medak,SPO,30530015
+30660717,Haveli Ghanpur S.O,Medak,SPO,30530015
+30660718,Ibrahimnagar S.O,Medak,SPO,30530015
+30660719,Irkode S.O,Medak,SPO,30530015
+30660720,Jagadevpur S.O,Medak,SPO,30530015
+30660721,Kadlakal S.O,Medak,SPO,30530015
+30660722,Kodakandla S.O,Medak,SPO,30530015
+30660723,Kodurkurd S.O,Medak,SPO,30530015
+30660724,Kondapak S.O,Medak,SPO,30530015
+30660725,Kuchanpally S.O,Medak,SPO,30530015
+30660726,Kuknoorpally S.O,Medak,SPO,30530015
+30660727,Machavaram S.O,Medak,SPO,30530015
+30660728,Makkarajpet S.O,Medak,SPO,30530015
+30660729,Masaipet S.O,Medak,SPO,30530015
+30660731,Medak Town S.O,Medak,SPO,30530015
+30660732,Nangnoor S.O,Medak,SPO,30530015
+30660733,Narsingee S.O,Medak,SPO,30530015
+30660735,Nizampet S.O,Medak,SPO,30530015
+30660736,Palamakula S.O,Medak,SPO,30530015
+30660737,Pamulaparthy S.O,Medak,SPO,30530015
+30660738,Papannapet S.O,Medak,SPO,30530015
+30660739,Podichanpally S.O,Medak,SPO,30530015
+30660740,Siddipet Collectorate S.O,Medak,SPO,30530015
+30660741,Pregnapur S.O,Medak,SPO,30530015
+30660742,Pullur S.O,Medak,SPO,30530015
+30660743,Rajpally S.O,Medak,SPO,30530015
+30660744,Ramayampet S.O,Medak,SPO,30530015
+30660745,Rangampet S.O,Medak,SPO,30530015
+30660747,Tekmal S.O,Medak,SPO,30530015
+30660748,Toopran S.O,Medak,SPO,30530015
+30660749,Yousufpet S.O,Medak,SPO,30530015
+30660750,A.I.E. R.C.puram S.O,Sangareddy,SPO,30530016
+30660752,Aie Bollaram S.O,Sangareddy,SPO,30530016
+30660753,Alladurg S.O,Sangareddy,SPO,30530016
+30660754,Ameenpur S.O,Sangareddy,SPO,30530016
+30660755,Andole S.O,Sangareddy,SPO,30530016
+30660756,Bdl Bhanur S.O,Sangareddy,SPO,30530016
+30660757,Charakpally S.O,Sangareddy,SPO,30530016
+30660758,Digwal S.O,Sangareddy,SPO,30530016
+30660759,Hadnur S.O,Sangareddy,SPO,30530016
+30660760,Icrisat S.O,Sangareddy,SPO,30530016
+30660761,IDA Pashamailaram S.O,Sangareddy,SPO,30530016
+30660762,IIT HYDERABAD SO,Sangareddy,SPO,30530016
+30660763,Ismailkhanpet S.O,Sangareddy,SPO,30530016
+30660764,Jogipet S.O,Sangareddy,SPO,30530016
+30660765,Kamkole S.O,Sangareddy,SPO,30530016
+30660766,Kandi S.O,Sangareddy,SPO,30530016
+30660767,Kohir S.O,Sangareddy,SPO,30530016
+30660768,Kowdipally S.O,Sangareddy,SPO,30530016
+30660769,Madhunagar S.O,Sangareddy,SPO,30530016
+30660770,Manjira Barrage S.O,Sangareddy,SPO,30530016
+30660771,Mig Colony S.O,Sangareddy,SPO,30530016
+30660772,Mirzapur S.O,Sangareddy,SPO,30530016
+30660773,Muthangi S.O,Sangareddy,SPO,30530016
+30660774,Nandikandi S.O,Sangareddy,SPO,30530016
+30660775,Narayankhed S.O,Sangareddy,SPO,30530016
+30660776,Narsapur S.O,Sangareddy,SPO,30530016
+30660777,Nizampet S.O,Sangareddy,SPO,30530016
+30660778,Nyalkal S.O,Sangareddy,SPO,30530016
+30660779,O.F.Yeddumailaram S.O,Sangareddy,SPO,30530016
+30660780,P.R.Pally Chowrasta S.O,Sangareddy,SPO,30530016
+30660781,Patancheru S.O,Sangareddy,SPO,30530016
+30660782,Raikode S.O,Sangareddy,SPO,30530016
+30660783,Ramachandrapuram He S.O,Sangareddy,SPO,30530016
+30660784,Ranjhole S.O,Sangareddy,SPO,30530016
+30660785,Regode S.O,Sangareddy,SPO,30530016
+30660786,Rudraram S.O,Sangareddy,SPO,30530016
+30660787,Sadasivpet S.O,Sangareddy,SPO,30530016
+30660789,Shankarampet S.O,Sangareddy,SPO,30530016
+30660790,Singoor Project S.O,Sangareddy,SPO,30530016
+30660791,Sirgapur S.O,Sangareddy,SPO,30530016
+30660792,Sirpura S.O,Sangareddy,SPO,30530016
+30660793,Zarasangam S.O,Sangareddy,SPO,30530016
+30660794,Tellapur S.O,Sangareddy,SPO,30530016
+30660795,Aushapur SO,Secunderabad,SPO,30530017
+30660816,Narsingi SO,Hyderabad City,SPO,30530012
+30661526,MANCHIREVULA SO,Hyderabad City,SPO,30530012
+30661531,Gandipet SO,Hyderabad City,SPO,30530012
+30661532,Kokapet SO,Hyderabad City,SPO,30530012
+30661533,Balapur SO,Hyderabad South East,SPO,30530014
+30250001,BNPL Hyderabad,Hyderabad Sorting,BNP,30600002
+30260013,BPC Jeedimetla,Hyderabad Sorting,BPC,30600002
+30260016,PBC Autonagar Counter,Hyderabad Sorting,BPC,30600002
+30260017,SPC Counter,Hyderabad Sorting,BPC,30600002
+30260018,TMO Secunderabad Counter,Hyderabad Sorting,BPC,30600002
